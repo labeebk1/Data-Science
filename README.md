@@ -29,6 +29,6 @@ This course is intended for students who want to learn data science through the 
   * [Week 1](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Slides/Phase%204/Week%201) Capstone Project Data Collection
   * [Week 2](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Slides/Phase%204/Week%202) Capstone Project Data Analysis
 
-* **[Examples](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Examples)** 
+**[Examples](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Examples)** 
 
-* **[Assignments](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Assignments)** 
+**[Assignments](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Assignments)** 
