@@ -1,0 +1,5 @@
+**This document contains a history of all the changes associated with the Python Full Stack curriculum**
+
+Date     | Change
+---------| ------
+09/09/19 | Initalize the repository
