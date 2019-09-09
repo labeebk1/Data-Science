@@ -1,6 +1,10 @@
 # ByteAcademy Data-Science Curriculum
 
-* This repository contains all material associated with the ByteAcademy Data Science Curriculum
+**This repository contains all material associated with the ByteAcademy Data Science Curriculum**
+
+## Goals
+
+This course is intended for students who want to learn data science through the Python programming language. The course is composed of 4 phases. The first 4 week phase is designed for students to familiarize themselves with the Python programming language as it is the most widely used language for data science development. The second 4 week phase deals with understanding the fundamentals of statistics and probability as this is the basis of all data science. Following this, phase 3 dives into machine learning with an emphasis on neural networks, deep learning, natural language processing and big data. Phase 4 wraps up the course where students use the knowledge from the previous phases in a comprehensive project that students pick based on their interest.
 
 ## Structure
 
