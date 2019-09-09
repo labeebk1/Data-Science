@@ -1,1 +1,1 @@
-# Data-Science
+# ByteAcademy Data-Science Curriculum
