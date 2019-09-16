@@ -4,7 +4,14 @@
 * Week 1-4 Python
 
 * Week 5 - Intro to Data Science
-
+  * Thinking like a data scientist
+    * Population vs Samples
+    * Measures - EV/Variance/stddev/
+  * Data santization
+    * Data importing
+    * Data cleaning
+    * Data formatting
+    
 * Week 6 - Intro to Statistics
 
 * Week 7 - Intro to Machine Learning
