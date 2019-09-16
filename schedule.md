@@ -3,19 +3,19 @@
 ### Outline
 * Week 1-4 Python
 
-* Week 5 - Introduction to Data Science
+* Week 5 - Intro to Data Science
 
-* Week 6 - Introduction to Statistics
+* Week 6 - Intro to Statistics
 
-* Week 7 - Introduction to Machine Learning
+* Week 7 - Intro to Machine Learning
 
-* Week 8 - Machine Learning Algorithms Part 1
+* Week 8 - Machine Learning Algorithms
 
-* Week 9 - Machine Learning Algorithms Part 2
+* Week 9 - Intro to Linear Algebra/Calculus
 
 * Week 10 - Intro to Deep Learning
 
-* Week 11 - Advanced Deep Learning
+* Week 11 - Deep Learning Algorithms
 
 * Week 12 - Putting it all together
 
