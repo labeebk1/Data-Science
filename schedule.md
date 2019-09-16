@@ -6,7 +6,7 @@
 * Week 5 - Intro to Data Science
   * Thinking like a data scientist
     * Population vs Samples
-    * Measures - EV/Variance/stddev/
+    * Measures - EV/Variance/stddev
   * Data santization
     * Data importing
     * Data cleaning
