@@ -1,21 +1,6 @@
 # Phase 1 - Week 1 - Day 1
 
-
-## Current
-* Setting up environment
-  * Bash
-  * Github
-  * Hackerrank
-  * Python
-  
- * Python
-   * Basic types
-   * Functions & loops
-   * Basic type methods 
-   
-
-
-## New Outline
+## Outline
 
 * What is a computer
   * A computer at its most fundamental just contains **memory** (harddrive, ram, cache) and **logic unit** (CPU, GPU) that manipulates the memory
