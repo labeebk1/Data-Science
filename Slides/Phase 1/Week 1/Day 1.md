@@ -1,6 +1,21 @@
 # Phase 1 - Week 1 - Day 1
 
-## Outline
+
+## Current
+* Setting up environment
+  * Bash
+  * Github
+  * Hackerrank
+  * Python
+  
+ * Python
+   * Basic types
+   * Functions & loops
+   * Basic type methods 
+   
+
+
+## New Outline
 
 * What is a computer
   * A computer at its most fundamental just contains **memory** (harddrive, ram, cache) and **logic unit** (CPU, GPU) that manipulates the memory
@@ -38,7 +53,7 @@
      * Numbers (int, float)
      * Booleans (bool)
        * short-circuiting
-       * 
+       * lazy-evaluation
      * Strings (str)
        * len
        * indexing
@@ -83,31 +98,3 @@ add10 = adder(10)
 print(add5(3)); print(add5(10))
 print(add10(3)); print(add10(3))
 ```
- 
-## Current
-* Setting up environment
-  * Bash
-  * Github
-  * Hackerrank
-  * Python
-  
- * Python
-   * Basic types
-   * Functions & loops
-   * Basic type methods 
-   
-## Additions
-* Theory of bash and github (Apart of setting up environment)
-  * git add/commit/push/pull/checkout/branch
-  * ls/cd/pwd/echo/vim or emacs/rm and rmdir
-  
-* What is CS? (After setting up environment, before python)
-  * Compilers/Distributed computing/concurrency/AI
-  * A computer stores memory and does logic, so does a programming language
-* What is Python? (After setting up environment, before python)
-  * Specificaiton vs implementation
-* Python memory storage - basic types (After setting up environment, apart of python)
-* Python logic - functions (After setting up environment, apart of python)
-
-  
- 
