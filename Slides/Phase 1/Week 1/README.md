@@ -21,9 +21,8 @@
 
 ## Introduction to Python
 
-### [Hello World and I/O](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Hello-World-and-IO.md)
-
 ### [Data Types](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Data-Types.md)
+* Hello World and I/O
 * Atomic Data Types
 * Compound Data Types
 
