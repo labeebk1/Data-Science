@@ -1,7 +1,5 @@
 # Introduction to Python
 
-## Hello World and I/O
-
 ## Data Types
 * Atomic Data Types
 * Compound Data Types
