@@ -23,8 +23,33 @@
 
 ### [Data Types](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Data-Types.md)
 * Hello World and I/O
-* Atomic Data Types
-* Compound Data Types
+  * input/print
+* Number (int, float)
+  * comparison methods
+  * mutability
+  * caching
+* Boolean (bool)
+  * boolean methods
+  * short circuiting
+  * lazy evaluation
+* String (str)
+  * common string methods
+  * indexing/slicing
+  * f-strings
+* List
+  * append/remove/+
+  * index/insert/pop
+* Tuple
+  * initialization/indexing
+  * comparison vs lists
+* Dict
+  * immutable keys
+  * get/set
+* Set
+  * &/|/+ operations
+* Type categorization
+  * Atomic/Compound x Mutable/Immutable table
+  * Sequence vs Associative types
 
 ### [Control Flow](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Control-Flow.md)
 
