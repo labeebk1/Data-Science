@@ -1,5 +1,6 @@
 ### Keywords
-  
+
+~~False~~ |await     |~~else~~  |~~import~~|~~pass~~
 :--------:|:--------:|:--------:|:--------:|:-----:
 False     |await     |else      |import    |pass
 None      |break     |except    |in        |raise
