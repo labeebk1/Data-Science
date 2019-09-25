@@ -1,19 +1,18 @@
-# Week 1 Outline
+# Week 2 Outline
 
-## Introduction and Environment
-* [Introduction to Computer Science](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-to-Computer-Science.md)
-* [The BASH Environment](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/The-BASH-Environment.md)
-* [The git Environment](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/The-git-Environment.md)
-* [The VS Code Environment](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/The-VS-Code-Environment.md)
+## Classes
+* [Class Basics](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Classes/Class-Basics.md)
+* [Protocols](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Classes/Protocols.md)
 
-## Introduction to Python
-* [Hello World and I/O](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/Hello-World-and-IO.md)
-* [Data Types](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/Data-Types.md)
-* [Control Flow](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/Control-Flow.md)
-* [Functions](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/Functions.md)
-* [Complexity Theory](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/Complexity-Theory.md)
+## Data Structures
+* [Linked List](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/DataStructures/LinkedList.md)
+* [Tree](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/DataStructures/Tree.md)
+* [Hash Table](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/DataStructures/HashTable.md)
+* [Graph](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/DataStructures/Graph.md)
 
-## Python Featuers
-* [Exceptions](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/Exceptions.md)
-* [Context Managers](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/Context-Managers.md)
-* [Modules](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/Slides/Modules.md)
+## Python Internals
+* [List vs Tuple](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/ListVsTable.md)
+* [Dict vs Set](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/DictVsSet.md)
+* [Class vs Module](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/ClassVsModule.md)
+* [Functions](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Functions.md)
+* [Putting It All Together](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/PuttingItAllTogether.md)
