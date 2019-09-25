@@ -31,10 +31,8 @@
 * Graph 
 
 ### Python Internals
-* List vs Tuple
-* Dict vs Set
-* Class vs Module
-* Function
+* Data Type Implementations
+* Data Manipulation Implementations
 * Putting It All Together
 
 ## [Week 3](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Slides/Phase%201/Week%203)
