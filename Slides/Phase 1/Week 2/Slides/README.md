@@ -13,4 +13,4 @@
 ## Python Internals
 * [Data Types](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Data%20Types.md)
 * [Functions, Classes, Modules](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Functions%20Classes%20Modules.md)
-* [Putting It All Together](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/PuttingItAllTogether.md)
+* [Putting It All Together](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Putting%20It%20All%20Together.md)
