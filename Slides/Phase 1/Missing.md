@@ -13,4 +13,4 @@ Keywords  | .          | .         | .          | .
 * Descriptor protocol (\_\_get/set/del\_\_)
 * Multiple inheritane (Diamond problem and mro)
 * Bytecode & the interpreter
-
+* Garbage collection
