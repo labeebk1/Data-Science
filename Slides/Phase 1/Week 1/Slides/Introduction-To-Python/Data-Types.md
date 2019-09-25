@@ -56,5 +56,4 @@
 ## Set
   * &/|/+ operations
 ## Type categorization
-  * Atomic/Compound x Mutable/Immutable table
-  * Sequence vs Associative types
+  * Sequence (in, +, indexing, slicing, len, max/min, count)
