@@ -11,6 +11,6 @@ Keywords  | .          | .         | .          | .
 ### Topics
 
 * Descriptor protocol (\_\_get/set/del\_\_)
-* Multiple inheritane (Diamond problem and mro)
+* Multiple inheritane (method resolution order (mro) and the diamond problem)
 * Bytecode & the interpreter
 * Garbage collection
