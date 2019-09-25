@@ -43,8 +43,8 @@ vec1 < vec2 == True
 
 * Iteration - output x, y, z coordinates in that order
 ```Python
-sum_of_vec = 0
+vec_diff = 0
 for i in vec1:
-  sum_of_vec -= i
-sum_of_vec == -4
+  vec_diff -= i
+vec_diff == -4
 ```
