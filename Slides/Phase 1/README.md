@@ -21,8 +21,7 @@
 
 ## [Week 2](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%202/README.md#week-2-outline)
 ### Classes
-* Instance/Class Variables/Methods
-* Inheritance
+* Class Basics
 * Protocols
 
 ### Data Structures
