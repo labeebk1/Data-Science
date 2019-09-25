@@ -12,10 +12,5 @@
 
 ## Python Internals
 * [Data Type Implementations](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/ListVsTable.md)
-  * List vs Tuple
-  * Dict vs Set
 * [Data Manipulation Implementations](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/DictVsSet.md)
-  * Class vs Module
-  * Functions
 * [Putting It All Together](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/PuttingItAllTogether.md)
-  * Stepping through a Python program
