@@ -45,11 +45,16 @@
 * String (str)
   * methods
   * features
-    * indexing
     * slicing
     * f-strings
-* List
-  * append/remove/+
+* List (```PythonList```)
+  * methods
+    * append/remove/+
+    * index/insert/pop
+  * features
+    * mutability
+    * slicing
+    
   * index/insert/pop
 * Tuple
   * initialization/indexing
