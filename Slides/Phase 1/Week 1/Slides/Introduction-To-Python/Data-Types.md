@@ -1,34 +1,50 @@
 # Data Types
 
-* Python memory abstraction model (formally defined as **data types**)
-   * Atomic data types
-     * Numbers (int, float)
-     * Booleans (bool)
-       * short-circuiting
-       * lazy-evaluation
-     * Strings (str)
-       * len
-       * indexing
-       * slicing
-       * adding
-       * f-strings
-   * Compound data types (sequence)
-     * Lists (list), Tuples (tuple)
-       * len
-       * indexing
-       * slicing
-       * appending/adding (only to list)
-   * Compound data types (associative)
-     * Dictionary (dict), Sets (set)
-       * len
-       * selecting/adding
-   * Python memory model
-   ```Python
-   x = 1234; id(x)
-   y = 1234; id(y)
+## Hello World and I/O
 
-   lst1 = [x, y]
-   id(lst1)
-   id(lst1[0])
-   ```
-   
+### input & print
+
+## Number (int, float)
+### Methods
+#### 6 Comparison Operators
+* 2 > 1 # True
+* 2 < 1 # False
+* 2 >= 1 # True
+* 2 <= 1 # False
+* 2 == 1 # False
+* 2 != 1 # True
+
+#### 6 Arithmetic Operators
+* 3 + 2 # 5
+* 3 - 2 # -1
+* 3 * 2 # 6
+* 3 / 2 # 1.5
+* 3 ** 2 # 9
+* 3 % 2 # 1
+
+#### Number Features
+* is operator
+* mutability
+* caching
+
+## Boolean (bool)
+  * boolean methods
+  * boolean features (short circuiting, lazy evaluation)
+## String (str)
+  * common string methods
+  * indexing/slicing
+  * f-strings
+## List
+  * append/remove/+
+  * index/insert/pop
+## Tuple
+  * initialization/indexing
+  * comparison vs lists
+## Dict
+  * immutable keys
+  * get/set
+## Set
+  * &/|/+ operations
+## Type categorization
+  * Atomic/Compound x Mutable/Immutable table
+  * Sequence vs Associative types
