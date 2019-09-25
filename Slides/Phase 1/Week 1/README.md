@@ -22,20 +22,32 @@
 ## Introduction to Python
 
 ### [Data Types](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Data-Types.md)
-* Hello World and I/O
-  * input/print
+* Hello World
+  * variables
+  * comments
+  * definitions vs declarations window
+  * input/output
 * Number (int, float)
-  * 8 arithmetic operators
-  * comparison methods
-  * Python memory (is operator, mutability, caching)
+  * methods
+    * 6 comparison operators
+    * 6 arithmetic operators
+    * 2 type casters
+  * features
+    * is operator
+    * mutability
+    * caching
 * Boolean (bool)
-  * boolean methods
-  * short circuiting
-  * lazy evaluation
+  * methods
+    * 3 boolean operators
+  * features
+    * short circuiting
+    * lazy evaluation
 * String (str)
-  * common string methods
-  * indexing/slicing
-  * f-strings
+  * methods
+  * features
+    * indexing
+    * slicing
+    * f-strings
 * List
   * append/remove/+
   * index/insert/pop
