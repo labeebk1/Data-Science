@@ -31,7 +31,7 @@
 * Hash Table
 * Graph 
 
-### Python Implementations
+### Python Internals
 * List vs Tuple
 * Dict vs Set
 * Class vs Module
