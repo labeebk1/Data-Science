@@ -1,8 +1,14 @@
 # Data Types
 
-## Hello World and I/O
+## Hello World
 
-### input & print
+### Variables
+
+### Comments
+
+### definitions vs declarations window
+
+### Input/Output
 
 ## Number (int, float)
 ### Methods
@@ -22,7 +28,11 @@
 * 3 ** 2 # 9
 * 3 % 2 # 1
 
-#### Number Features
+#### 2 Type Casters
+* int(3.2) # 3
+* float(3) # 3.0
+
+### Features
 * is operator
 * mutability
 * caching
