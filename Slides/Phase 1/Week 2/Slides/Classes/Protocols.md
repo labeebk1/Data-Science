@@ -33,7 +33,7 @@ vec3.z == -4
 
 * Multiplication ([Dot Product](https://en.wikipedia.org/wiki/Dot_product))
 ```Python
-vec1 * vec2 == 46 (1*9 + 2*7 + 3*7 = 46)
+vec1 * vec2 == 46 # (1*9 + 2*7 + 3*7 = 46)
 ```
 
 * Comparison ([Magnitude](https://en.wikipedia.org/wiki/Magnitude_(mathematics)#Euclidean_vector_space))
