@@ -27,46 +27,70 @@
   * comments
   * definitions vs declarations window
   * input/output
-* Number (int, float)
+* Number (```int```, ```float```)
   * methods
+    * initialization
     * 6 comparison operators
     * 6 arithmetic operators
     * 2 type casters
   * features
+    * immutable
     * is operator
-    * mutability
     * caching
-* Boolean (bool)
+* Boolean (```bool```)
   * methods
+    * initialization
     * 3 boolean operators
   * features
+    * immutable
     * short circuiting
     * lazy evaluation
-* String (str)
+* String (```str```)
   * methods
+    * initialization/len
+    * isupper/upper
+    * join/split
   * features
+    * immutable
+    * iteration
     * slicing
     * f-strings
-* List (```PythonList```)
+* List (```list```)
   * methods
+    * initialization/len
     * append/remove/+
     * index/insert/pop
   * features
-    * mutability
+    * mutable
+    * iteration
     * slicing
-    
-  * index/insert/pop
-* Tuple
-  * initialization/indexing
-  * comparison vs lists
-* Dict
-  * immutable keys
-  * get/set
-* Set
-  * &/|/+ operations
+* Tuple (```tuple```)
+  * methods
+    * initialization/len
+  * features
+    * immutable
+    * iteration
+    * slicing
+* Dictionary (```dict```)
+  * methods
+    * initialize/len
+    * get/set
+    * keys/values/items
+  * features
+    * mutable container with immutable keys, mutable values
+    * iteration
+* Set (```set```)
+  * methods
+    * initialization/len
+    * set operators (&, |, /)
+    * add/remove
+  * features
+    * mutable container with immutable keys
+    * iteration
 * Type categorization
-  * Atomic/Compound x Mutable/Immutable table
-  * Sequence vs Associative types
+  * Mutable(Hashable)
+  * Sequenceable
+  * Iterable
 
 ### [Control Flow](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Control-Flow.md)
 
