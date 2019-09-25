@@ -8,14 +8,12 @@
 ### [Protocols](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Classes/Protocols.md)
 
 ## Data Structures
-### Linked List
-### Binary Tree
-### Hash Table
-### Graph 
+### [Linked List](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Linked%20List.md)
+### [Tree](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Tree.md)
+### [Hash Table](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Hash%20Table.md)
+### [Graph](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Graph.md)
 
 ## Python Internals
-### List vs Tuple
-### Dict vs Set
-### Class vs Module
-### Function
-### Putting It All Together
+### [Data Type Implementations](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Data%20Type%20Implementations.md)
+### [Data Manipulation Implementations](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Data%20Manipulation%20Implementations.md)
+### [Putting It All Together](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Putting%20It%20All%20Together.md)
