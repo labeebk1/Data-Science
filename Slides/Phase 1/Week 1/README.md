@@ -25,9 +25,9 @@
 * Hello World and I/O
   * input/print
 * Number (int, float)
+  * 8 arithmetic operators
   * comparison methods
-  * mutability
-  * caching
+  * Python memory (is operator, mutability, caching)
 * Boolean (bool)
   * boolean methods
   * short circuiting
