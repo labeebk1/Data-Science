@@ -1,6 +1,6 @@
 # Phase 1
 
-## [Week 1](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%201/README.md#week-1-outline)
+## [Week 1](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Slides/Phase%201/Week%201)
 ### Introduction and Environment
 * Introduction to Computer Science
 * The BASH Environment
@@ -19,7 +19,7 @@
 * Exceptions
 * Modules
 
-## [Week 2](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%202/README.md#week-2-outline)
+## [Week 2](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Slides/Phase%201/Week%202)
 ### Classes
 * Class Basics
 * Protocols
@@ -37,7 +37,7 @@
 * Function
 * Putting It All Together
 
-## [Week 3](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%203/README.md#week-3-outline)
+## [Week 3](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Slides/Phase%201/Week%203)
 ### Python Modules
 * Testing
 * Logging
@@ -46,7 +46,7 @@
 * RegEx
 * Collections
 
-## [Week 4](https://github.com/ByteAcademy-Curriculum/Python-Full-Stack/blob/master/Slides/Phase%201/Week%204/README.md#week-4-outline)
+## [Week 4](https://github.com/ByteAcademy-Curriculum/Data-Science/tree/master/Slides/Phase%201/Week%204)
 ### Dealing with Data
 * Collection
 * Sanitization
