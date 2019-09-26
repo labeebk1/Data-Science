@@ -1,4 +1,4 @@
-# Linked List
+## Linked List
 
 * You are provided with the basic code for a Linked List with \_\_init\_\_, \_\_len\_\_, \_\_eq\_\_, and insert already implemented. Your goal is to implement the methods listed below in the specified runtime. Tests are provided for each implementation 
   * Implement delete, search and traverse all in O(n) runtime
