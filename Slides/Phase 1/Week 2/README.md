@@ -50,6 +50,6 @@
 * Graph operations
 
 ## Python Internals
-### [Data Type Implementations](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Data%20Type%20Implementations.md)
-### [Data Manipulation Implementations](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Data%20Manipulation%20Implementations.md)
+### [Data Types](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Data%20Type%20Implementations.md)
+### [Classes, Modules, Functions](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Data%20Manipulation%20Implementations.md)
 ### [Putting It All Together](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Python-Internals/Putting%20It%20All%20Together.md)
