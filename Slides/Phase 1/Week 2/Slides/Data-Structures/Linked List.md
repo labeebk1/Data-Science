@@ -10,7 +10,11 @@ class Node:
       return 1
     else:
       return 1 + len(self.next)
-  def append(self, num):
+  def insert(self, num):
     new_node = Node(num)
     self.next = new_node
+  def delete(self, num):
+    pass
+  def search(self, num):
+    pass
 ```
