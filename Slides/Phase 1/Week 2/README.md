@@ -5,7 +5,15 @@
 * Instance Variables and Methods
 * Class Variables and Methods
 * Inheritance
+
 ### [Protocols](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Classes/Protocols.md)
+* Airthmetic
+* Comparison
+* Collections
+* Sequence
+* Iteration
+* Content Managers
+* Exceptions
 
 ## Data Structures
 ### [Basic Operations](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Basic%20Operations.md)
