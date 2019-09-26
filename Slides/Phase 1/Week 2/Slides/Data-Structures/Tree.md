@@ -11,6 +11,8 @@ class Node:
       return 1
     else:
       return 1 + len(self.left) + len(self.right)
+  def __str__(self):
+    pass
   def insert(self, num):
     pass
   def delete(self, num):
