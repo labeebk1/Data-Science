@@ -2,7 +2,7 @@
 
 * Understand the [Stack](https://www.geeksforgeeks.org/stack-data-structure/) and [Queue](https://www.geeksforgeeks.org/queue-data-structure/) data structures.  There is supplimentary links in the provided link for further information about these data structures.
   * Give an application when you would want to use a stack vs a queue vs a normal linked list
-* You are provided with the basic code for a Linked List with \_\_init\_\_, \_\_len\_\_, \_\_eq\_\_, and insert already implemented. Your goal is to implement the methods listed below in the specified runtime. Tests are provided for each implementation 
+* You are provided with the basic code for a Linked List with \_\_init\_\_, \_\_len\_\_, \_\_eq\_\_, and insert already implemented. Your goal is to implement the methods listed below in the specified runtime. Tests are provided for each implementation. You may assume duplicates are not allowed in the list.
   * Implement delete, search and traverse all in O(n) runtime
   * Implement add_to_end in O(1) runtime. This method simply adds an element to the end of the list
     * Hint: Need to modify \_\_init\_\_ and possibly other methods as well
@@ -17,7 +17,7 @@ class Node:
     if self.next == None:
       return 1
     else:
-      return 1 + len(self.nextor
+      return 1 + len(self.next)
    def __eq__(self, other):
     while self != None or other != None:
       if self.first != other.first:
@@ -51,7 +51,7 @@ class Node:
 lst = Node(1, Node(9, Node(2, Node(10, Node(5, None)))))
 ```
 
-* Deletion
+* Deletion - delete the number from the list, or do nothing if the list doesn't contain the number
 ```Python
 lst.delete(2)
 lst == Node(1, Node(9, Node(10, Node(5, None))))
