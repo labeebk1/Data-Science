@@ -1,10 +1,10 @@
 # Tree
 
 * You are provided with the basic code for a Binary Search Tree (BST) with \_\_init\_\_, and insert already implemented. Your goal is to implement the methods listed below in the specified runtime. Tests are provided for each implementation 
-* Implement \_\_len\_\_ in O(n) runtime
-* Implement search in O(logn) and traverse all in O(n) runtime
-* Implement \_\_len\_\_ in O(1) runtime.
-  * Hint: Need to modify \_\_init\_\_ and possibly other methods as well
+  * Implement \_\_len\_\_ in O(n) runtime
+  * Implement search in O(logn) and traverse all in O(n) runtime
+  * Implement \_\_len\_\_ in O(1) runtime.
+    * Hint: Need to modify \_\_init\_\_ and possibly other methods as well
 
 ```Python
 class Node:
