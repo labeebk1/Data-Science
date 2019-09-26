@@ -21,8 +21,6 @@
 * Delete
 * Search
 * Traverse
-* Sort
-* Merge
   
 ### [Linked List](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Linked%20List.md)
 * Linked list types
