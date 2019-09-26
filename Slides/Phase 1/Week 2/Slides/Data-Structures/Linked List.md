@@ -10,6 +10,8 @@ class Node:
       return 1
     else:
       return 1 + len(self.next)
+  def __str__(self):
+    pass
   def insert(self, num):
     new_node = Node(num)
     self.next = new_node
