@@ -9,6 +9,13 @@
 
 ## Data Structures
 ### [Basic Operations](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Basic%20Operations.md)
+  * Insert
+  * Delete
+  * Search
+  * Traverse
+  * Sort
+  * Merge
+  
 ### [Linked List](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Linked%20List.md)
 ### [Tree](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Tree.md)
 ### [Hash Table](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Hash%20Table.md)
