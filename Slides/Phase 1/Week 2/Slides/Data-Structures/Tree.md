@@ -12,10 +12,13 @@ class Node:
     self.num = num
     self.left = left
     self.right = right
+    
   def __lt__(self, other):
     return self.num < other.num
+    
   def __len__(self):
     pass
+    
   def insert(self, num):
     new_node = Node(num)
     if new_node < self:
