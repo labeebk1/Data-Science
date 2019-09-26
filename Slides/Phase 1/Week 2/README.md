@@ -18,25 +18,27 @@
   
 ### [Linked List](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Linked%20List.md)
 * Linked list types
+  * Array
   * Singly, doubly
-  * Stacks & queues
-* Linked list operations
+  * Stack & queue
+* Singly linked list operations
 
 ### [Tree](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Tree.md)
 * Tree types
-  * Binary (Search) Tree
-  * Heaps
-  * Tries
+  * Binary (search) tree
+  * Heap
 * Binary serch tree operations
 
 ### [Hash Table](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Hash%20Table.md)
 * Hash table types
+  * Trie
+  * Hash table
 * Hash table operations
 
 ### [Graph](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%202/Slides/Data-Structures/Graph.md)
 * Graph types
-  * Directed Acyclic Graph
-  * Bidirectional
+  * Cyclic graph
+  * Directional graph
 * Graph operations
 
 ## Python Internals
