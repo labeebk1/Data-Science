@@ -41,19 +41,19 @@ t = Node(10,
          Node(5,
               Node(0,
                    None,
-                   Node(2, None, None))
+                   Node(2, None, None)),
               Node(8,
                    None,
-                   None))
+                   None)),
          Node(20,
               Node(15,
                    None,
-                   None))
+                   None),
               Node(30,
                    None,
                    Node(70,
                         None,
-                        None))))              
+                        None))))             
 
 ```
 
