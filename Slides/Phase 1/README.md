@@ -25,6 +25,7 @@
 * Protocols
 
 ### Data Structures
+* Basic Operations
 * Linked List
 * Binary Tree
 * Hash Table
