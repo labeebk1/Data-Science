@@ -57,10 +57,11 @@ lst == Node(1, Node(9, Node(10, Node(5, None))))
 lst.delete(20) == lst
 ```
 
-* Search (Assuming delete did not happen)
+* Search - return the index where element is found, or -1 if it doesn't exist(Assuming delete did not happen)
 ```Python
 lst.search(1) == 0
 lst.search(9) == 1
+lst.search(100) == -1
 ```
 
 * Traverse (Assuming delete did not happen)
