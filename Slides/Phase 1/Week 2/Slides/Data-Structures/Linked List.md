@@ -1,5 +1,11 @@
 # Linked List
 
+* You are provided with the basic code for a Linked List with \_\_init\_\_, \_\_len\_\_, \_\_eq\_\_, and insert already implemented. Your goal is to implement the methods listed below in the specified runtime. Tests are provided for each implementation 
+* Implement delete, search and traverse all in O(n) runtime
+* Implement add_to_end in O(1) runtime. This method simply adds an element to the end of the list
+  * Hint: Need to modify \_\_init\_\_ and possibly other methods as well
+
+
 ```Python
 class Node:
   def __init__(self, first, next = None):
@@ -9,14 +15,55 @@ class Node:
     if self.next == None:
       return 1
     else:
-      return 1 + len(self.next)
-  def __str__(self):
-    pass
-  def insert(self, num):
-    new_node = Node(num)
-    self.next = new_node
+      return 1 + len(self.nextor
+   def __eq__(self, other):
+    while self != None or other != None:
+      if self.first != other.first:
+        return False
+      self = self.next
+      other = other.next
+    return True if self == None and other == None else False
+      
+  def insert(self, index, num):
+    if index == 0:
+      new_node = Node(num)
+      new_node.next = self
+      self = new_node
+    elif index == 1:
+      new_node = Node(num)
+      new_node.next = self.next
+      self.next = new_node
+    else:
+      self.next.insert(index - 1, num)
+      
   def delete(self, num):
     pass
   def search(self, num):
     pass
+  def traverse(self):
+    pass
+```
+
+* Initialization
+```Python
+lst = Node(1, Node(9, Node(2, Node(10, Node(5, None)))))
+```
+
+* Deletion
+```Python
+lst.delete(2)
+lst == Node(1, Node(9, Node(10, Node(5, None))))
+
+lst.delete(20) == lst
+```
+
+* Search (Assuming delete did not happen)
+```Python
+lst.search(1) == 0
+lst.search(9) == 1
+```
+
+* Traverse
+```Python
+lst.traverse() == '[1, 9, 2, 10, 5]' # This function outputs a list in string format
 ```
