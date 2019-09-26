@@ -63,7 +63,12 @@ lst.search(1) == 0
 lst.search(9) == 1
 ```
 
-* Traverse
+* Traverse (Assuming delete did not happen)
 ```Python
 lst.traverse() == '[1, 9, 2, 10, 5]' # This function outputs a list in string format
+```
+
+* Add_to_end (Assuming delete did not happen)
+```Python
+lst.add_to_end(20) == Node(1, Node(9, Node(2, Node(10, Node(5, Node(20, None)))))
 ```
