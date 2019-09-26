@@ -1,7 +1,7 @@
 ## Linked List
 
 * Understand the [Stack](https://www.geeksforgeeks.org/stack-data-structure/) and [Queue](https://www.geeksforgeeks.org/queue-data-structure/) data structures.  There is supplimentary links in the provided link for further information about these data structures.
-  * Give an application when you would want to use a stack vs a queue vs a normal linked list
+  * Provide an application when you would want to use a stack vs a queue vs a normal linked list
 * You are provided with the basic code for a Linked List with \_\_init\_\_, \_\_len\_\_, \_\_eq\_\_, and insert already implemented. Your goal is to implement the methods listed below in the specified runtime. Tests are provided for each implementation. You may assume duplicates are not allowed in the list.
   * Implement delete, search and traverse all in O(n) runtime
   * Implement add_to_end in O(1) runtime. This method simply adds an element to the end of the list
