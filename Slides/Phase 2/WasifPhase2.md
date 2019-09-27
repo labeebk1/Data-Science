@@ -15,6 +15,8 @@
 * ML tools
   * numpy, pandas 
   
+* Model Selection Theory
+
 * Problems of ML
   * Bias/complexity trade-off
     * Line of best fit vs completely fitting data
@@ -27,14 +29,17 @@
   * Theory
   * Application
   * Problems of ML
+  * Model Selection 
 * Decision trees
   * Theory
   * Application
   * Problems of ML
+  * Model Selection 
 * Linear Regression
   * Theory
   * Application
   * Problems of ML
+  * Model Selection 
 * Statistical (bayesian) learning
   * Theory
   * Application
@@ -58,6 +63,7 @@
 
 ## Week 5 - Unsupervised Learning
 * RNN (unsupervised)
+* PCA
 * GAN
   
 ## Week 6 - Reinforcement Learning
