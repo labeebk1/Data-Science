@@ -11,6 +11,9 @@
   * Examples of the above definition
   * 3 categories (supervised, unsupervised, reinforcement)
     * List algorithms of each to give context on what we'll be covering
+
+* ML tools
+  * numpy, pandas 
   
 * Problems of ML
   * Bias/complexity trade-off
@@ -39,6 +42,7 @@
 * Ensemble learning
   * Bagging
   * Boosting
+  
 ## Week 3 - Neural Networks
 * Perceptron, single layer neural network
   * Linear algebra, calculus recap
