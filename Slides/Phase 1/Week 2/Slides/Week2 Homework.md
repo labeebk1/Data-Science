@@ -73,6 +73,7 @@ table.most_collisions() == 3 # Assuming the delete operation previously did not 
 ## Putting it all togther
 
 * Fill out the runtime for all the cells. Understand why the runtime is what it is. Compare worst case, average case and best case
+
 Data Structure| Linked List | Tree | Hash Table | Graph
 --------------|-------------|------|------------|-----
 Insert        |        x    | x    |  x         | x
