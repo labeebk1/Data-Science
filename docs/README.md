@@ -1,4 +1,4 @@
-# ByteAcademy Data-Science Curriculum
+# ByteAcademy Data-Science Curriculum test
 
 **This repository contains all material associated with the ByteAcademy Data Science Curriculum**
 
