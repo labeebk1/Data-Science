@@ -8,13 +8,19 @@
 * What is Python
 * Why Python
 
+---
+
 ### [The BASH Environment](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction%20and%20Environment/The-BASH-Environment.md)
 * Theory of BASH
 * Bash commands and navigation
 
+---
+
 ### [The git Environment](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction%20and%20Environment/The-git-Environment.md)
 * Theory of git
 * git commands and navigation
+
+---
 
 ### [The VS Code Environment](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction%20and%20Environment/The-VS-Code-Environment.md)
 * Setup
