@@ -9,8 +9,14 @@
 
 
 ## Data Types
-* Atomic Data Types
-* Compound Data Types
+* Number
+* Boolean
+* String
+* List
+* Tuple
+* Dictionary
+* Set
+* Type Categorizations
 
 ## Control Flow
 * Scope (LEGB, global/nonlocal)
