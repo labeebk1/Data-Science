@@ -6,7 +6,7 @@
 
 ### Comments
 
-### definitions vs declarations window
+### Environment
 
 ### Input/Output
 
