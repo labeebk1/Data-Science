@@ -3,15 +3,14 @@
 ## Number 
 ### Methods
 #### 6 Arithmetic Operators
-Airthmetic  | Comparison | Type Casting 
-:----------:| :---------:| :-----------:
-```3 + 2 # 5```   | x | x
-3 + 2 # 5   | X | x
-3 - 2 # -1  | x | x
-3 * 2 # 6   | x | x
-3 / 2 # 1.5 | x | x
-3 ** 2 # 9  | x | x
-3 % 2 # 1   | x | x
+```Python
+3 + 2 # 5
+3 + 2 # 5
+3 - 2 # -1
+3 * 2 # 6
+3 / 2 # 1.5
+3 ** 2 # 9
+3 % 2 # 1
 ```
 
 #### 6 Comparison Operators
