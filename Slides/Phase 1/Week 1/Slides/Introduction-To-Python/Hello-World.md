@@ -24,7 +24,7 @@ id(x)
 x = 2
 id(x)
 ```
-# Types (type)
+### Types (type)
 * Type function and the string type
 ```Python
 x = 1
@@ -34,14 +34,30 @@ type(x)
 ```
 
 ## IO
-* Code Modularization
-* Naming Conventions
+### input, print
 ```Python
 x = "Please enter your name: "
+y = input(x)
+z = f"Hello {user_input}, nice to meet you!"
+print(z)
+```
+
+### Naming Conventions
+```Python
+message = "Please enter your name: "
+user_input = input(message)
+user_output = f"Hello {user_input}, nice to meet you!"
+print(user_output)
+```
+
+### Code Modularization
+```Python
+message = "Please enter your name: "
 user_input = input(x)
 
 user_output = f"Hello {user_input}, nice to meet you!"
 print(user_output)
 ```
+
 
 
