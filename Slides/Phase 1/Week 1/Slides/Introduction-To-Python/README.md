@@ -1,82 +1,85 @@
 # Introduction to Python
 
-### [Hello World](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Hello-World.md)
-* Running Python
-  * Invoking the Interpreter
-  * Using an Editor
-* Variables
-  * Name bindings
-  * Memory
-  * Types
-* Input/Output
-  * input, print
-  * Naming Conventions
-  * Code Modularity
+## [Hello World](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Hello-World.md)
 
-### [Data Types](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Data-Types.md)
-* Number (```int```, ```float```)
-  * Methods
-    * initialization
-    * 6 comparison operators
-    * 6 arithmetic operators
-    * 2 type casters
-  * Features
-    * immutable
-    * is operator
-    * caching
-* Boolean (```bool```)
-  * methods
-    * initialization
-    * 3 boolean operators
-  * features
-    * immutable
-    * short circuiting
-    * lazy evaluation
-* String (```str```)
-  * methods
+### Running Python
+* Invoking the Interpreter
+* Using an Editor
+
+### Variables
+* Name bindings
+* Memory
+* Types
+
+### Input/Output
+* input, print
+* Naming Conventions
+* Code Modularity
+
+## [Data Types](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Data-Types.md)
+### Number (```int```, ```float```)
+* Methods
+  * initialization
+  * 6 comparison operators
+  * 6 arithmetic operators
+  * 2 type casters
+* Features
+  * immutable
+  * is operator
+  * caching
+### Boolean (```bool```)
+* Methods
+  * initialization
+  * 3 boolean operators
+* Features
+  * immutable
+  * short circuiting
+  * lazy evaluation
+### String (```str```)
+* Methods
+  * initialization/len
+  * isupper/upper
+  * join/split
+* Features
+  * immutable
+  * iteration
+  * slicing
+### List (```list```)
+* Methods
+  * initialization/len
+  * append/remove/+
+  * index/insert/pop
+* Features
+  * mutable
+  * iteration
+  * slicing
+### Tuple (```tuple```)
+* Methods
     * initialization/len
-    * isupper/upper
-    * join/split
-  * features
+* Features
     * immutable
     * iteration
     * slicing
-* List (```list```)
-  * methods
-    * initialization/len
-    * append/remove/+
-    * index/insert/pop
-  * features
-    * mutable
-    * iteration
-    * slicing
-* Tuple (```tuple```)
-  * methods
-    * initialization/len
-  * features
-    * immutable
-    * iteration
-    * slicing
-* Dictionary (```dict```)
-  * methods
+### Dictionary (```dict```)
+* Methods
     * initialize/len
     * get/set
     * keys/values/items
-  * features
+* Features
     * mutable container with immutable keys, mutable values
     * iteration
-* Set (```set```)
-  * methods
-    * initialization/len
-    * set operators (&, |, /)
-    * add/remove
-  * features
-    * mutable container with immutable keys
-    * iteration
-* Type categorization
-  * Mutable(Hashable)
-  * Sequenceable
-  * Iterable
+### Set (```set```)
+* Methods
+  * initialization/len
+  * set operators (&, |, /)
+  * add/remove
+* Features
+  * mutable container with immutable keys
+  * iteration
+### Type Classification
+* Mutable(Hashable)
+* Sequenceable
+* Iterable
 
 ## Control Flow
 * Scope (LEGB, global/nonlocal)
