@@ -8,7 +8,7 @@
 * The VS Code Environment
 
 ### Introduction to Python
-* Hello World and I/O
+* Hello World
 * Data Types
 * Control Flow
 * Functions
