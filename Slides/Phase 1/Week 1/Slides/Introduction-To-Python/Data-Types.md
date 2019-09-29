@@ -1,6 +1,6 @@
 # Data Types
 
-## Number (int, float)
+## Number (```int```, ```float```)
 ### Methods
 #### 6 Comparison Operators
 * 2 > 1 # True
@@ -27,23 +27,25 @@
 * mutability
 * caching
 
-## Boolean (bool)
+## Boolean (```bool```)
   * boolean methods
   * boolean features (short circuiting, lazy evaluation)
-## String (str)
+## String (```str```)
   * common string methods
   * indexing/slicing
   * f-strings
-## List
+## List (```list```)
   * append/remove/+
   * index/insert/pop
-## Tuple
+## Tuple (```tuple```)
   * initialization/indexing
   * comparison vs lists
-## Dict
+## Dictionary (```dict```)
   * immutable keys
   * get/set
-## Set
+## Set (```set```)
   * &/|/+ operations
-## Type categorization
+## Type classifications
+  * Collection
   * Sequence (in, +, indexing, slicing, len, max/min, count)
+  * Iteration
