@@ -2,13 +2,16 @@
 # Hello World
 
 ## Running Python
-* Invoking the Interpreter
+
+### Invoking the Interpreter
+* Through command prompt
 ```
 python hello-world.py
 ```
-* Using an editor
-  * Definition window
-  * Interaction window
+
+### Using an editor
+* Definition window
+* Interaction window
 
 ## Variables
 ### Name bindings (=)
