@@ -1,5 +1,13 @@
 # Introduction to Python
 
+## Hello World
+* Running Python
+* Variables
+* Comments
+* Environment
+* Input/Output
+
+
 ## Data Types
 * Atomic Data Types
 * Compound Data Types
