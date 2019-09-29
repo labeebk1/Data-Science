@@ -1,26 +1,32 @@
 # Data Types
 
-## Number (```Python int```, ```float```)
+## Number 
 ### Methods
-#### 6 Comparison Operators
-* 2 > 1 # True
-* 2 < 1 # False
-* 2 >= 1 # True
-* 2 <= 1 # False
-* 2 == 1 # False
-* 2 != 1 # True
-
 #### 6 Arithmetic Operators
-* 3 + 2 # 5
-* 3 - 2 # -1
-* 3 * 2 # 6
-* 3 / 2 # 1.5
-* 3 ** 2 # 9
-* 3 % 2 # 1
+```Python
+3 + 2 # 5 
+3 - 2 # -1
+3 * 2 # 6
+3 / 2 # 1.5
+3 ** 2 # 9
+3 % 2 # 1
+```
+
+#### 6 Comparison Operators
+```Python
+2 > 1 # True
+2 < 1 # False
+2 >= 1 # True
+2 <= 1 # False
+2 == 1 # False
+2 != 1 # True
+```
 
 #### 2 Type Casters
-* int(3.2) # 3
-* float(3) # 3.0
+```Python
+int(3 / 2) # 1
+float(3 * 2) # 6.0
+```
 
 ### Features
 * is operator
