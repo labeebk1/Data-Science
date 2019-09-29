@@ -29,17 +29,18 @@
 
 ### [Data Types](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Data-Types.md)
 * Hello World
-  * variables
-  * comments
-  * definitions vs declarations window
-  * input/output
+  * Running Python
+  * Variables
+  * Comments
+  * Environment
+  * Input/Output
 * Number (```int```, ```float```)
-  * methods
+  * Methods
     * initialization
     * 6 comparison operators
     * 6 arithmetic operators
     * 2 type casters
-  * features
+  * Features
     * immutable
     * is operator
     * caching
