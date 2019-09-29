@@ -1,6 +1,6 @@
 # Data Types
 
-## Number (```Pythonint```, ```float```)
+## Number (```Python int```, ```float```)
 ### Methods
 #### 6 Comparison Operators
 * 2 > 1 # True
