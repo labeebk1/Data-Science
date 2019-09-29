@@ -3,6 +3,8 @@
 ## Number 
 ### Methods
 #### 6 Arithmetic Operators
+
+<div style="text-align: left">
 ```Python
 3 + 2 # 5 
 3 - 2 # -1
@@ -11,6 +13,7 @@
 3 ** 2 # 9
 3 % 2 # 1
 ```
+ </div>
 
 #### 6 Comparison Operators
 ```Python
