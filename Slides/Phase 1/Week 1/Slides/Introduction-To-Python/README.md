@@ -18,66 +18,67 @@
 
 ## [Data Types](https://github.com/ByteAcademy-Curriculum/Data-Science/blob/master/Slides/Phase%201/Week%201/Slides/Introduction-To-Python/Data-Types.md)
 ### Number (```int```, ```float```)
-* Methods
-  * initialization
-  * 6 comparison operators
-  * 6 arithmetic operators
-  * 2 type casters
-* Features
-  * immutable
-  * is operator
-  * caching
+* Method - Initialization
+* Method - Arithmetic operators (6)
+* Method - Comparison operators (6)
+* Method - Type casters (2)
+* Feature - Immutable 
+* Feature - ```is``` operator
+* Feature - Caching
+
 ### Boolean (```bool```)
-* Methods
-  * initialization
-  * 3 boolean operators
-* Features
-  * immutable
-  * short circuiting
-  * lazy evaluation
+* Method - Initialization
+* Method - Boolean Operators (3)
+* Feature - Immutable
+* Feature - Short Circuiting
+* Feature - Lazy Evaluation
+
 ### String (```str```)
-* Methods
-  * initialization/len
-  * isupper/upper
-  * join/split
-* Features
-  * immutable
-  * iteration
-  * slicing
+* Method - Initialization
+* Method - ```len```
+* Method - ```join```, ```split```
+* Method - ```upper```, ```isupper```
+* Feature - Immutable
+* Feature - Iteration
+* Feature - Slicing
+
 ### List (```list```)
-* Methods
-  * initialization/len
-  * append/remove/+
-  * index/insert/pop
-* Features
-  * mutable
-  * iteration
-  * slicing
+* Method - Initialization
+* Method - ```len```
+* Method - ```append```, ```remove```, ```+```
+* Method - ```index```, ```insert```, ```pop```
+* Feature - Mutable
+* Feature - Iteration
+* Feature - Slicing
+
 ### Tuple (```tuple```)
-* Methods
-    * initialization/len
-* Features
-    * immutable
-    * iteration
-    * slicing
+* Method - Initialization
+* Method - ```len```
+* Feature - Immutable
+* Feature - Iteration
+* Feature - Slicing
+
 ### Dictionary (```dict```)
-* Methods
-    * initialize/len
-    * get/set
-    * keys/values/items
-* Features
-    * mutable container with immutable keys, mutable values
-    * iteration
+* Method - Initialization
+* Method - ```len```
+* Method - ```get```, ```set```
+* Method - ```keys```, ```values```, ```items```
+* Feature - Mutable Container
+* Feature - Immutable Keys
+* Feature - Mutable Values
+* Feature - Iteration
+
 ### Set (```set```)
-* Methods
-  * initialization/len
-  * set operators (&, |, /)
-  * add/remove
-* Features
-  * mutable container with immutable keys
-  * iteration
+* Method - Initialization
+* Method - ```len```
+* Method - ```&```, ```|```, ```/```
+* Method - ```add```, ```remove```
+* Feature - Mutable Container
+* Feature - Immutable Keys
+* Feature - Iteration
+
 ### Type Classification
-* Mutable(Hashable)
+* Mutable (Hashable)
 * Sequenceable
 * Iterable
 
