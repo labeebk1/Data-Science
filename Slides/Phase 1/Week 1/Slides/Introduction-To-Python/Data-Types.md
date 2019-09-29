@@ -5,7 +5,7 @@
 #### 6 Arithmetic Operators
 Airthmetic  | Comparison | Type Casting 
 :----------:| :---------:| :-----------:
-```Python   | x | x
+```3 + 2 # 5```   | x | x
 3 + 2 # 5   | X | x
 3 - 2 # -1  | x | x
 3 * 2 # 6   | x | x
