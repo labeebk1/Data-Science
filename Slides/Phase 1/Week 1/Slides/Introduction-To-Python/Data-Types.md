@@ -1,15 +1,5 @@
 # Data Types
 
-## Hello World
-
-### Variables
-
-### Comments
-
-### Environment
-
-### Input/Output
-
 ## Number (int, float)
 ### Methods
 #### 6 Comparison Operators
