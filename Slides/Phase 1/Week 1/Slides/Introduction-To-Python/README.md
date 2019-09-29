@@ -16,7 +16,7 @@
 * Tuple
 * Dictionary
 * Set
-* Type Categorizations
+* Type Classifications
 
 ## Control Flow
 * Scope (LEGB, global/nonlocal)
