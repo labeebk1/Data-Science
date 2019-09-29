@@ -68,7 +68,6 @@
     * immutable
     * iteration
     * slicing
-    * f-strings
 * List (```list```)
   * methods
     * initialization/len
