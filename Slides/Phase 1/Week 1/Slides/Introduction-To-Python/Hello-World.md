@@ -11,13 +11,12 @@ python hello-world.py
   * Interaction window
 
 ## Variables
-* Name bindings (=)
-* Memory (id)
-* Types (type)
+### Name bindings (=)
 ```Python
 x = 1
 ```
 
+### Memory (id)
 * Functions and Python memory
 ```Python
 x = 1
@@ -25,7 +24,7 @@ id(x)
 x = 2
 id(x)
 ```
-
+# Types (type)
 * Type function and the string type
 ```Python
 x = 1
